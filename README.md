@@ -6,3 +6,5 @@
 Web Development
 ## 목표
 GitHub 협업 경험 쌓깅
+## 취미
+음악듣깅
